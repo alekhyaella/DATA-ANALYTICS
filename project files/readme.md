@@ -1,1 +1,1 @@
-project files of information
+project files of information documents

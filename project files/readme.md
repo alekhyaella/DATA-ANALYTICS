@@ -1,1 +1,1 @@
-project files of information documents
+project excecutable files
